@@ -24,7 +24,7 @@ function preload() {
   zombie1 = loadImage("zombie1.png");
   zombie2 = loadImage("zombie2.png");
 
-  zombie3 = loadImage("/zombie3.png");
+  zombie3 = loadImage("zombie3.png");
   zombie4 = loadImage("zombie4.png");
 
   backgroundImage = loadImage("background.png");
